@@ -1,0 +1,11 @@
+{
+    "id": "videoPlayer",
+    "title": "视频播放器",
+    "description": "视频播放与裁剪",
+    "updateURL": "https://neysummer2000.fun/videoPlayer/",
+    "dataPath": "",
+    "bg": "",
+    "pin": true,
+    "path": "./videoPlayer/"
+}
+
